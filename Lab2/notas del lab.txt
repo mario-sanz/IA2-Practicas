@@ -1,8 +1,0 @@
-countvectorizer es un booleano que decide que si vamos a tomar frecuencia de una palabra o su cantidad de apariciones totales en el texto (en numero)
-
-los ngramas son el numero de palabras que tiramos hacia atras para predecir la siguiente
-
-tf idf pondera la frecuencia de apariciones de una palabra 
-
-
-en lo de los word embeddings, el numero al lado de cada palabra indica el % de similitud de los vectores de la palabra con la solicitada
